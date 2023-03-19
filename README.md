@@ -1,0 +1,2 @@
+# terraform_lab_deploy_configurable_sever_use_variables
+Deploy and configurable sever using variables
